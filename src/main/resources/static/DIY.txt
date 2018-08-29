@@ -1,0 +1,17 @@
+2700X中文盒装+技嘉B450 AORUS PRO	3059
+//技嘉GTX1070TI AORUS     小雕	3399
+
+海盗船 复仇者PRO RGB 3200 8G*2  	1399
+三星 970EVO 250G M.2 NVME	668 
+1T   机械硬盘 			256
+酷冷至尊MWE 550W 金牌全模组	499
+酷冷至尊 LITE5   ATX  亚克力侧透 送3个光圈风扇       	299
+酷冷至尊 冰霜B240 红光	399
+
+
+￥6579
+
+git@github.com:zh199609/microservicecloud-config.git
+
+
+
