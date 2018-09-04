@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class UserService {
 
-	@Autowired
+/*	@Autowired
 	private UserMapper userMapper;
 	
 	
@@ -19,5 +19,5 @@ public class UserService {
 
 	public int saveUser(User user) {
 		return userMapper.saveUser(user);
-	};
+	};*/
 }
